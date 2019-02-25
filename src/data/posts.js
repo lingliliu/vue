@@ -1,0 +1,46 @@
+export default [
+    {
+      username: "liulingli",
+      userImage:
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/150150/oprah.jpg",
+      postImage:
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/30354/parallax3.jpg",
+      likes: 88,
+      hasBeenLiked: false,
+      caption: "Whatever",
+      filter: "toaster"
+    },
+    {
+      username: "liuluwei",
+      userImage: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg",
+      postImage:
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
+      likes: 36,
+      hasBeenLiked: false,
+      caption: "When you're ready for summer '18 ☀️",
+      filter: "perpetua"
+    },
+    {
+      username: "cc",
+      userImage: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png",
+      postImage:
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/downtown.jpg",
+      likes: 20,
+      hasBeenLiked: false,
+      caption: "Views from the six...",
+      filter: "clarendon"
+    },
+    {
+      username: "ice",
+      userImage:
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/pug_personal.jpg",
+      postImage:
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/puppers.jpg",
+      likes: 49,
+      hasBeenLiked: false,
+      caption: "Current mood 🐶",
+      filter: "lofi"
+    },
+    
+  ];
+  
